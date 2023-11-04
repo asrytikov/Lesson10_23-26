@@ -1,8 +1,8 @@
-package dz8;
-/*Д/з создать в проекте с Phone интерфейсы: Callable с методом receiveCall() и
-Informable c default методом info() с default реализацией,
-применить интерфейсы к абстрактному классу Phone и классам-наследникам.
- */
+package dz9;
+/*
+ * Д/з изменить в проекте с Phone интерфейсы Callable и Informable на использование generic,
+ * применить интерфейсы к абстрактному классу Phone и классам-наследникам.
+ * */
 
 public class Main {
     public static void main(String[] args) {
@@ -11,5 +11,7 @@ public class Main {
         phone.info();
         //phone.receiveCall();
         phone.infoD();
+
+        phone.inform("Test");
     }
 }

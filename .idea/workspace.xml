@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92d0dcb0-4abf-4820-913a-b3293c05c9f5" name="Changes" comment="" />
+    <list default="true" id="92d0dcb0-4abf-4820-913a-b3293c05c9f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/ApplePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz9/ApplePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/Callable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz9/Callable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/Informable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz9/Informable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz9/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p5/SumsNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p5/SumsNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p7/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2XfgUhCJFFfnsnpQIIc2coUF6qb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +47,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/asrytikov/Desktop/Java23-26/Lesson10/src/dz9",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asrytikov\Desktop\Java23-26\Lesson10\src\dz9" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +66,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699025567678</updated>
+      <workItem from="1699025569099" duration="5421000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

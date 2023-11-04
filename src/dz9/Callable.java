@@ -1,7 +1,7 @@
-package dz8;
+package dz9;
 
-public interface Callable {
+public interface Callable<T> {
 
-    void receiveCall(String name);
+    void receiveCall(T name);
 
 }

@@ -1,6 +1,6 @@
-package dz8;
+package dz9;
 
-public abstract class Phone implements Callable, Informable{
+public abstract class Phone implements Callable<String>, Informable<String>{
 
    private String number;
    private String model;
@@ -50,4 +50,8 @@ public abstract class Phone implements Callable, Informable{
     }
 
     public abstract void info();
+
+    public void inform(String mes) {
+        System.out.println("Message: " + mes);
+    }
 }
